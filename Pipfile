@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+djangorestframework = "*"
+django = "*"
+pytest = "*"
+pytest-django = "*"
+flake8 = "*"
+httpie = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
