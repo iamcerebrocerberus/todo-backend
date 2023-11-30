@@ -1,0 +1,1 @@
+Simple todo app backend with DRF
