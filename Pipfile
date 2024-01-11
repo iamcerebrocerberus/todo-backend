@@ -4,14 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-djangorestframework = "*"
+django-cors-headers = "*"
 django = "*"
-pytest = "*"
-pytest-django = "*"
-flake8 = "*"
-httpie = "*"
+djangorestframework = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.7"
+python_version = "3.11"
